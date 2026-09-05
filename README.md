@@ -1,6 +1,6 @@
-# Projeto de Desenvolvimento Web - Trabalhos 1 a 4
+# Projeto de Desenvolvimento Web - Trabalhos Compensatórios 1 a 4
 
-Este repositório reúne os trabalhos desenvolvidos ao longo da disciplina de desenvolvimento web, apresentando a evolução de uma aplicação de cadastro e gestão de clientes.
+Este repositório reúne os trabalhos desenvolvidos ao longo da disciplina de AAP4, como trabalhos compensatórios, apresentando a evolução de uma aplicação de cadastro e gestão de clientes.
 
 Os trabalhos foram desenvolvidos de forma progressiva, começando pela criação da interface com HTML e CSS, passando pela utilização de JavaScript e requisições assíncronas, até chegar à definição da arquitetura MVC e à implementação de uma aplicação com operações CRUD e banco de dados MySQL.
 
